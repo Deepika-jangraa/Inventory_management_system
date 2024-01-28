@@ -1,0 +1,23 @@
+# Ignore local configuration files
+/config.php
+
+# Ignore database configuration
+/database.php
+
+# Ignore local development environment
+/.vscode
+/.idea
+
+# Ignore composer dependencies
+/vendor/
+
+# Ignore Node.js dependencies
+/node_modules/
+
+# Ignore logs and temporary files
+/logs/
+/temp/
+
+# Ignore build artifacts
+/build/
+/dist/
